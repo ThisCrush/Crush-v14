@@ -21,8 +21,6 @@ Botların komutlarında text olarak benzetme vardır sonra gelip şurdan aldın�
 
 ![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/8e61a6c4-5518-4727-a25d-56d3114498a0)
 
-![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/8ac45568-57aa-47ea-be1c-9696cc1fd2ab)
-
 ![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/ff2941ec-7a8a-4972-9f10-aa29199f8a66)
 
 ![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/a73b26be-6ad4-4009-b58d-3903d4646b2c)
@@ -46,8 +44,6 @@ Botların komutlarında text olarak benzetme vardır sonra gelip şurdan aldın�
 ![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/5721842e-5517-4768-b7a3-c65eefb8afbd)
 
 ![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/f27b3b36-fca8-4802-ac3a-8fc214315152)
-
-![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/4a79803d-f1e5-47ea-af6f-b35c96c41bd4)
 
 ![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/74c70166-161b-4972-a72c-814db132711b)
 
