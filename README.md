@@ -9,8 +9,6 @@ Hatırlatma!
 Botların komutlarında text olarak benzetme vardır sonra gelip şurdan aldınız denmesin
 
 
-![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/96a3bb1d-1295-4d9a-8771-de894f69362a)
-
 ![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/847cac9f-0678-47f5-963e-389ca47a02d7)
 
 ![image](https://github.com/ThisCrush/Crush-v14/assets/150682338/acc71241-0c8a-4142-b4a8-18f296d1bf17)
